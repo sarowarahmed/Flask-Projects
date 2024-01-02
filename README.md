@@ -1,0 +1,2 @@
+# Flask Projects
+ This GitHub repository is a collection of diverse projects developed using Flask, a lightweight and versatile web framework in Python. Explore a range of applications demonstrating Flask's flexibility in web development, including APIs, web services, and dynamic web applications. Each project includes clear documentation, showcasing Flask's power and ease of use for building scalable and efficient web solutions
